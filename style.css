@@ -10,12 +10,13 @@ body {
     color: #333;
 }
 
-header {
-    background: #2e7d32;
-    color: white;
+header{
+    background: linear-gradient(135deg, #2E7D32, #4CAF50);
+    color: #FAF8F2;
     text-align: center;
-    padding: 60px 20px;
+    padding: 110px 25px 90px;
 }
+
 
 header p {
     margin-top:15px;
